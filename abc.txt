@@ -1,1 +1,3 @@
 hi first python and vi editor test in my mac
+
+This is going to be my second python 
